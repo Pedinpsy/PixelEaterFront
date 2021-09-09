@@ -1,7 +1,9 @@
 export default {
+ 
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'snakeFront',
+    title: 'Pixel E',
     htmlAttrs: {
       lang: 'en'
     },
