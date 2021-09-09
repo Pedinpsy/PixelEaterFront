@@ -1,6 +1,9 @@
 # Pixel Eater Front
 Este respositorio faz parte de um projeto maior chamado Pixel Eater, sendo este a parte Front End, feito com [NuxtJs](https://nuxtjs.org/)
 
+
+![Desmostration](https://raw.githubusercontent.com/Pedinpsy/PixelEaterFront/develop/Demostration.png)
+
 # Modo de executar
 
 1. Executar Projeto BackEnd [Pixel-Eater-Back](https://github.com/Pedinpsy/Pixel-Eater-Back)
